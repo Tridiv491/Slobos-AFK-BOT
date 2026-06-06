@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Bilbert",
+    "username": "Larry",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Tridiv491.aternos.me",
+    "ip": "needlefish.aternos.host:30082",
     "port": 30082,
     "version": "1.21.11"
   },
