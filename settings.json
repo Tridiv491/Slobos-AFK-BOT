@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Gilbert",
+    "username": "Bilbert",
     "password": "",
     "type": "offline"
   },
@@ -13,7 +13,7 @@
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 20690,
     "z": 0
   },
   "utils": {
@@ -22,7 +22,7 @@
       "password": "Slobos"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
@@ -51,7 +51,7 @@
       "speed": 3000
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 5000
     },
     "random-jump": {
